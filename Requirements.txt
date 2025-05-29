@@ -4,7 +4,8 @@ opencv-python
 openai
 whisper
 langdetect
-torch
+torch==2.0.1+cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
 transformers
 numpy
 scikit-image
