@@ -4,7 +4,7 @@ opencv-python
 openai
 whisper
 langdetect
-torch==2.0.1+cpu
+torch==2.2.2+cpu
 --extra-index-url https://download.pytorch.org/whl/cpu
 transformers
 numpy
@@ -15,5 +15,3 @@ beautifulsoup4
 google-api-python-client
 google-auth
 python-dotenv
-
-
