@@ -1,0 +1,16 @@
+streamlit
+yt-dlp
+opencv-python
+openai
+whisper
+langdetect
+torch
+transformers
+numpy
+scikit-image
+scikit-learn
+requests
+beautifulsoup4
+google-api-python-client
+google-auth
+python-dotenv
