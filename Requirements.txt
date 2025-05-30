@@ -1,9 +1,10 @@
-torch
+torch==2.1.0+cpu
+--index-url https://download.pytorch.org/whl/cpu
+whisper
 streamlit
 yt-dlp
 opencv-python
 openai
-whisper
 langdetect
 transformers
 numpy
