@@ -4,14 +4,6 @@ import time
 import torch
 import types
 from dotenv import load_dotenv
-
-# PyTorch + Streamlit fix (optional)
-if isinstance(torch.classes, types.ModuleType):
-    try:
-        torch.classes.__path__ = []
-    except Exception:
-        pass
-
 import streamlit as st
 
 # Load environment variables
